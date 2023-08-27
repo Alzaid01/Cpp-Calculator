@@ -6,7 +6,7 @@ int main() {
     char operation;
     double num1, num2, result;
 
-    cout << "Viren's Calculator" << endl;
+    cout << "Alzaid Calculator" << endl;
     cout << "Enter first number: ";
     cin >> num1;
 
